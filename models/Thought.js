@@ -18,7 +18,7 @@ const ThoughtSchema = new Schema(
         },
 
         username: {
-            type: String,
+            type: String,  
             required: true
         },
         
