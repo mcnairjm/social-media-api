@@ -24,11 +24,11 @@
   https://opensource.org/licenses/MIT
 
   ## Technologies
-  *JavaScript*
-  *NodeJs*
-  *MongoDB*
-  *Mongoose*
-  *Express.js*
+  *JavaScript
+  *NodeJs
+  *MongoDB
+  *Mongoose
+  *Express.js
 
   ## Credits
   John McNair
